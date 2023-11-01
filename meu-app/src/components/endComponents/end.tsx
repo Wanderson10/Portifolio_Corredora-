@@ -6,7 +6,7 @@ import React from 'react';
 function EndComponent (){
     return (
         <Div>
-            <h3>Contatos</h3>
+            <h3>Redes Sociais</h3>
 
 
     <div>

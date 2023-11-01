@@ -19,7 +19,7 @@ export const BoxApresentation = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #f0f4f7; /* Tom frio, cor de fundo */
+  background-color: #f0f4f7; 
   background-image: url(${corredoraImg});
   background-size: cover;
 
