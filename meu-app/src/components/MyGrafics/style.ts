@@ -10,6 +10,14 @@ padding-top:15px;
 gap: 1px;
 
 
+display:flex;
+flex-direction:column;
+justify-content:center;
+  
+
+
+
+
 
 h3{
     font-size:30px;
@@ -49,6 +57,7 @@ p{
       font-size: 15px; 
       color :white;
       padding: 5px;
+
     }
   }
 
